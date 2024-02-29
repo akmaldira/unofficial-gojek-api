@@ -16,6 +16,11 @@
     "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   },
-  "author": "",
-  "description": ""
+  "author": "Akmal Dira <akmaldiraa@gmail.com>",
+  "description": "This is an unofficial Gojek API for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmaldira/unofficial-gojek-api.git"
+  }
 }
+
