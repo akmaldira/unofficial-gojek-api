@@ -1,6 +1,6 @@
 {
   "name": "unofficial-gojek-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.ts",
   "license": "MIT",
   "scripts": {
@@ -20,7 +20,8 @@
   "description": "This is an unofficial Gojek API for Node.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/akmaldira/unofficial-gojek-api.git"
-  }
+    "url": "https://github.com/akmaldira/unofficial-gojek-api"
+  },
+  "homepage": "https://github.com/akmaldira/unofficial-gojek-api"
 }
 
